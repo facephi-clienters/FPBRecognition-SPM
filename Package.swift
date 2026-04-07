@@ -17,7 +17,7 @@ let package = Package(
         .target(
             name: "FPBRecognition-SPM",  dependencies: ["FPBRecognition"]),
         .binaryTarget(name: "FPBRecognition",
-        url: "https://facephicorp.jfrog.io/artifactory/spm-pro-fphi/WIDGET/FPBRecognition/3.27.2/FPBRecognition.zip",
-        checksum: "cf0c9bd5bc3ce91fce2a88041814b7757fb9eef4be4af1be1172dd9e37c845ed")
+        url: "https://facephicorp.jfrog.io/artifactory/spm-pro-fphi/WIDGET/FPBRecognition/6.1.3/FPBRecognition.zip",
+        checksum: "42aefbfff18b01a4a960bbcc26dcdd68c0184ee4703c230ef23c566f9e74e545")
     ]
 )
